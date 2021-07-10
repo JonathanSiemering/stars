@@ -16,8 +16,8 @@ Total starred repositories: `11`
 
 ## C
 
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.  \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️49933) 
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree  (⭐️114592) 
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.  \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️49960) 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree  (⭐️114629) 
 
 ## CSS
 
@@ -35,8 +35,8 @@ Total starred repositories: `11`
 
 ## Python
 
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  \[*MIT License*\] (⭐️26361) 
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather  \[*Apache License 2.0*\] (⭐️14881) 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  \[*MIT License*\] (⭐️26364) 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather  \[*Apache License 2.0*\] (⭐️14887) 
 
 ## Shell
 
@@ -44,5 +44,5 @@ Total starred repositories: `11`
 
 ## Vim script
 
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability  (⭐️45387) 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability  (⭐️45405) 
 
