@@ -16,8 +16,8 @@ Total starred repositories: `12`
 
 ## C
 
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.  \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️50217) 
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree  (⭐️115346) 
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.  \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️50230) 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree  (⭐️115400) 
 
 ## CSS
 
@@ -25,25 +25,25 @@ Total starred repositories: `12`
 
 ## Erlang
 
-- [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ  (⭐️1065) 
+- [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ  (⭐️1066) 
 
 ## Go
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management  \[*Apache License 2.0*\] (⭐️79278) 
-- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x  \[*MIT License*\] (⭐️1894) 
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.  \[*MIT License*\] (⭐️1717) 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management  \[*Apache License 2.0*\] (⭐️79291) 
+- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x  \[*MIT License*\] (⭐️1896) 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.  \[*MIT License*\] (⭐️1720) 
 - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list.  \[*MIT License*\] (⭐️3) 
 
 ## Python
 
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  \[*MIT License*\] (⭐️26482) 
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather  \[*Apache License 2.0*\] (⭐️14980) 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  \[*MIT License*\] (⭐️26486) 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather  \[*Apache License 2.0*\] (⭐️14986) 
 
 ## Shell
 
-- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins  (⭐️8575) 
+- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins  (⭐️8576) 
 
 ## Vim script
 
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability  (⭐️45669) 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability  (⭐️45690) 
 
