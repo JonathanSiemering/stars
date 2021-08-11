@@ -17,12 +17,12 @@ Total starred repositories: `15`
 
 ## C
 
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.  \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️50506) 
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree  (⭐️116078) 
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.  \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️50527) 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree  (⭐️116116) 
 
 ## C#
 
-- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.  \[*MIT License*\] (⭐️25334) 
+- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.  \[*MIT License*\] (⭐️25348) 
 
 ## CSS
 
@@ -30,27 +30,27 @@ Total starred repositories: `15`
 
 ## Erlang
 
-- [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ  (⭐️1083) 
+- [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ  (⭐️1085) 
 
 ## Go
 
-- [golang/go](https://github.com/golang/go) - The Go programming language  (⭐️88563) 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management  \[*Apache License 2.0*\] (⭐️79746) 
-- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x  \[*MIT License*\] (⭐️1918) 
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.  \[*MIT License*\] (⭐️1757) 
+- [golang/go](https://github.com/golang/go) - The Go programming language  (⭐️88597) 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management  \[*Apache License 2.0*\] (⭐️79882) 
+- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x  \[*MIT License*\] (⭐️1922) 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.  \[*MIT License*\] (⭐️1761) 
 - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list.  \[*MIT License*\] (⭐️3) 
 
 ## Python
 
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  \[*MIT License*\] (⭐️26596) 
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather  \[*Apache License 2.0*\] (⭐️15117) 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  \[*MIT License*\] (⭐️26606) 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather  \[*Apache License 2.0*\] (⭐️15129) 
 
 ## Shell
 
-- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core  (⭐️16051) 
-- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins  (⭐️8620) 
+- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core  (⭐️16057) 
+- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins  (⭐️8627) 
 
 ## Vim script
 
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability  (⭐️46111) 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability  (⭐️46131) 
 
