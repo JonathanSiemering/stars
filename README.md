@@ -20,13 +20,13 @@ Total starred repositories: `35`
 
 ## C
 
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.  \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️50578) 
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree  (⭐️116315) 
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.  \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️50590) 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree  (⭐️116368) 
 
 ## C#
 
-- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.  \[*MIT License*\] (⭐️25401) 
-- [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces  \[*MIT License*\] (⭐️1145) 
+- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.  \[*MIT License*\] (⭐️25407) 
+- [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces  \[*MIT License*\] (⭐️1146) 
 
 ## CSS
 
@@ -34,55 +34,55 @@ Total starred repositories: `35`
 
 ## Erlang
 
-- [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ  (⭐️1087) 
+- [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ  (⭐️1088) 
 
 ## Go
 
-- [golang/go](https://github.com/golang/go) - The Go programming language  (⭐️88736) 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible  \[*MIT License*\] (⭐️8443) 
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker  \[*MIT License*\] (⭐️18114) 
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands  \[*MIT License*\] (⭐️20744) 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management  \[*Apache License 2.0*\] (⭐️80032) 
+- [golang/go](https://github.com/golang/go) - The Go programming language  (⭐️88755) 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible  \[*MIT License*\] (⭐️8446) 
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker  \[*MIT License*\] (⭐️18115) 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands  \[*MIT License*\] (⭐️20752) 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management  \[*Apache License 2.0*\] (⭐️80056) 
 - [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x  \[*MIT License*\] (⭐️1924) 
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.  \[*MIT License*\] (⭐️1770) 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.  \[*MIT License*\] (⭐️1771) 
 - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list.  \[*MIT License*\] (⭐️3) 
 
 ## Lua
 
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.  \[*Apache License 2.0*\] (⭐️595) 
-- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin   \[*MIT License*\] (⭐️825) 
-- [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim  \[*MIT License*\] (⭐️1275) 
-- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (>= 0.5)  \[*GNU GPLv3*\] (⭐️695) 
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client  \[*Apache License 2.0*\] (⭐️2454) 
-- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.  \[*MIT License*\] (⭐️3015) 
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Golang Neovim plugin, based on nvim-lsp, treesitter and Dap  \[*MIT License*\] (⭐️109) 
-- [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - lsp signature hint when you type  \[*Apache License 2.0*\] (⭐️400) 
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.  \[*Apache License 2.0*\] (⭐️599) 
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin   \[*MIT License*\] (⭐️828) 
+- [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim  \[*MIT License*\] (⭐️1283) 
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (>= 0.5)  \[*GNU GPLv3*\] (⭐️699) 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client  \[*Apache License 2.0*\] (⭐️2457) 
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.  \[*MIT License*\] (⭐️3017) 
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Golang Neovim plugin, based on nvim-lsp, treesitter and Dap  \[*MIT License*\] (⭐️110) 
+- [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - lsp signature hint when you type  \[*Apache License 2.0*\] (⭐️403) 
 - [rverst/nvim-config](https://github.com/rverst/nvim-config) - My neovim config  \[*The Unlicense*\] (⭐️2) 
-- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config  \[*MIT License*\] (⭐️1157) 
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config  \[*MIT License*\] (⭐️1161) 
 
 ## Makefile
 
-- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.  \[*MIT License*\] (⭐️3148) 
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.  \[*MIT License*\] (⭐️3151) 
 
 ## Python
 
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  \[*MIT License*\] (⭐️26638) 
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather  \[*Apache License 2.0*\] (⭐️15165) 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  \[*MIT License*\] (⭐️26648) 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather  \[*Apache License 2.0*\] (⭐️15181) 
 
 ## Scheme
 
-- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer  \[*Apache License 2.0*\] (⭐️2149) 
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer  \[*Apache License 2.0*\] (⭐️2152) 
 
 ## Shell
 
-- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core  (⭐️16084) 
+- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core  (⭐️16085) 
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins  (⭐️8636) 
 - [rverst/dotfiles](https://github.com/rverst/dotfiles) - These are my dotfiles, batteries included.  \[*The Unlicense*\] (⭐️2) 
 
 ## Vim script
 
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability  (⭐️46221) 
-- [rstacruz/vim-closer](https://github.com/rstacruz/vim-closer) - Closes brackets  \[*MIT License*\] (⭐️228) 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability  (⭐️46298) 
+- [rstacruz/vim-closer](https://github.com/rstacruz/vim-closer) - Closes brackets  \[*MIT License*\] (⭐️229) 
 - [tpope/vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: wisely add "end" in ruby, endfunction/endif/more in vim script, etc  (⭐️937) 
-- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal  (⭐️14644) 
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal  (⭐️14647) 
 
