@@ -34,34 +34,34 @@ Total starred repositories: `157`
 ## C
 
   - [espressif/ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) - Latest ESP8266 SDK based on FreeRTOS, esp-idf style. \[*Apache License 2.0*\] (⭐️3170)
-  - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware \[*GNU GPLv3*\] (⭐️7976)
-  - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility \[*GNU GPLv3*\] (⭐️25532)
-  - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families \[*GNU GPLv2*\] (⭐️16303)
-  - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. \[*Modified BSD License*\] (⭐️62733)
-  - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi \[*MIT License*\] (⭐️12643)
-  - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (⭐️162833)
-  - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. \[*GNU GPLv3*\] (⭐️54922)
+  - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware \[*GNU GPLv3*\] (⭐️7982)
+  - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility \[*GNU GPLv3*\] (⭐️25539)
+  - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families \[*GNU GPLv2*\] (⭐️16313)
+  - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. \[*Modified BSD License*\] (⭐️62745)
+  - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi \[*MIT License*\] (⭐️12649)
+  - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (⭐️162884)
+  - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. \[*GNU GPLv3*\] (⭐️54940)
 
 ## C#
 
-  - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. \[*MIT License*\] (⭐️33322)
-  - [NLua/NLua](https://github.com/NLua/NLua) - Bridge between Lua and the .NET. \[*MIT License*\] (⭐️1883)
-  - [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces \[*MIT License*\] (⭐️1619)
-  - [Samsung/netcoredbg](https://github.com/Samsung/netcoredbg) - NetCoreDbg is a managed code debugger with MI interface for CoreCLR. \[*MIT License*\] (⭐️636)
+  - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. \[*MIT License*\] (⭐️33330)
+  - [NLua/NLua](https://github.com/NLua/NLua) - Bridge between Lua and the .NET. \[*MIT License*\] (⭐️1884)
+  - [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces \[*MIT License*\] (⭐️1620)
+  - [Samsung/netcoredbg](https://github.com/Samsung/netcoredbg) - NetCoreDbg is a managed code debugger with MI interface for CoreCLR. \[*MIT License*\] (⭐️638)
 
 ## C++
 
-  - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources \[*Apache License 2.0*\] (⭐️14340)
-  - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. (⭐️6915)
-  - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (⭐️16046)
-  - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world (⭐️4310)
+  - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources \[*Apache License 2.0*\] (⭐️14355)
+  - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. (⭐️6918)
+  - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (⭐️16049)
+  - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world (⭐️4311)
   - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. \[*GNU GPLv3*\] (⭐️2146)
-  - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting \[*Apache License 2.0*\] (⭐️3546)
-  - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! \[*MIT License*\] (⭐️91874)
-  - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager \[*GNU LGPLv2.1*\] (⭐️9592)
-  - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.) \[*GNU AGPLv3*\] (⭐️6981)
+  - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting \[*Apache License 2.0*\] (⭐️3547)
+  - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! \[*MIT License*\] (⭐️91887)
+  - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager \[*GNU LGPLv2.1*\] (⭐️9603)
+  - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.) \[*GNU AGPLv3*\] (⭐️6984)
   - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim. \[*MIT License*\] (⭐️1720)
-  - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.) (⭐️3784)
+  - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.) (⭐️3786)
 
 ## CSS
 
@@ -70,166 +70,166 @@ Total starred repositories: `157`
 ## Erlang
 
   - [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ (⭐️1819)
-  - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support! \[*Apache License 2.0*\] (⭐️3105)
+  - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support! \[*Apache License 2.0*\] (⭐️3107)
 
 ## Go
 
-  - [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform \[*Apache License 2.0*\] (⭐️2262)
-  - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2 \[*MIT License*\] (⭐️346) *Archived!*
-  - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime \[*Apache License 2.0*\] (⭐️15322)
-  - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... \[*Apache License 2.0*\] (⭐️6940)
-  - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. \[*Apache License 2.0*\] (⭐️20127)
-  - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! \[*Apache License 2.0*\] (⭐️23210)
-  - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others. \[*Apache License 2.0*\] (⭐️4206)
-  - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language. \[*MIT License*\] (⭐️21459)
-  - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. \[*Apache License 2.0*\] (⭐️70450)
-  - [golang/go](https://github.com/golang/go) - The Go programming language \[*Modified BSD License*\] (⭐️116517)
-  - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible \[*MIT License*\] (⭐️12394)
-  - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. \[*GNU AGPLv3*\] (⭐️20832)
-  - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager \[*Apache License 2.0*\] (⭐️25373)
+  - [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform \[*Apache License 2.0*\] (⭐️2261)
+  - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2 \[*MIT License*\] (⭐️347) *Archived!*
+  - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime \[*Apache License 2.0*\] (⭐️15331)
+  - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... \[*Apache License 2.0*\] (⭐️6943)
+  - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. \[*Apache License 2.0*\] (⭐️20136)
+  - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! \[*Apache License 2.0*\] (⭐️23221)
+  - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others. \[*Apache License 2.0*\] (⭐️4208)
+  - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language. \[*MIT License*\] (⭐️21461)
+  - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. \[*Apache License 2.0*\] (⭐️70468)
+  - [golang/go](https://github.com/golang/go) - The Go programming language \[*Modified BSD License*\] (⭐️116536)
+  - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible \[*MIT License*\] (⭐️12397)
+  - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. \[*GNU AGPLv3*\] (⭐️20844)
+  - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager \[*Apache License 2.0*\] (⭐️25376)
   - [hexops/gotextdiff](https://github.com/hexops/gotextdiff) - Unified text diffing in Go (copy of the internal diffing packages the officlal Go language server uses) \[*Modified BSD License*\] (⭐️120)
-  - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go \[*MIT License*\] (⭐️8688)
-  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️31388)
-  - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands \[*MIT License*\] (⭐️40932)
-  - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go \[*GNU GPLv3*\] (⭐️9842)
+  - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go \[*MIT License*\] (⭐️8699)
+  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️31398)
+  - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands \[*MIT License*\] (⭐️40961)
+  - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go \[*GNU GPLv3*\] (⭐️9841)
   - [jschaf/pggen](https://github.com/jschaf/pggen) - Generate type-safe Go for any Postgres query. If Postgres can run the query, pggen can generate code for it. \[*MIT License*\] (⭐️245)
   - [jstarks/npiperelay](https://github.com/jstarks/npiperelay) - npiperelay allows you to access Windows named pipes from WSL \[*MIT License*\] (⭐️505)
-  - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder \[*MIT License*\] (⭐️56233)
-  - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes \[*Apache License 2.0*\] (⭐️25270)
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management \[*Apache License 2.0*\] (⭐️103981)
-  - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes \[*Apache License 2.0*\] (⭐️10159)
-  - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. \[*Apache License 2.0*\] (⭐️10068)
+  - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder \[*MIT License*\] (⭐️56269)
+  - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes \[*Apache License 2.0*\] (⭐️25287)
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management \[*Apache License 2.0*\] (⭐️103984)
+  - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes \[*Apache License 2.0*\] (⭐️10161)
+  - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. \[*Apache License 2.0*\] (⭐️10071)
   - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY \[*MIT License*\] (⭐️339)
   - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager \[*MIT License*\] (⭐️559)
-  - [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x \[*MIT License*\] (⭐️2858)
+  - [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x \[*MIT License*\] (⭐️2859)
   - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go. \[*Modified BSD License*\] (⭐️5605)
-  - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. \[*Apache License 2.0*\] (⭐️51078)
+  - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. \[*Apache License 2.0*\] (⭐️51089)
   - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible. \[*MIT License*\] (⭐️4365)
-  - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 \[*Apache License 2.0*\] (⭐️18508)
-  - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files \[*MIT License*\] (⭐️41709)
+  - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 \[*Apache License 2.0*\] (⭐️18518)
+  - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files \[*MIT License*\] (⭐️41724)
   - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list. \[*MIT License*\] (⭐️30)
-  - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody (⭐️9264)
-  - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices. \[*MIT License*\] (⭐️13867)
-  - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. \[*MIT License*\] (⭐️10517)
+  - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody (⭐️9268)
+  - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices. \[*MIT License*\] (⭐️13870)
+  - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. \[*MIT License*\] (⭐️10525)
   - [wave-k8s/wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller \[*Apache License 2.0*\] (⭐️628)
 
 ## Haskell
 
-  - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager \[*Modified BSD License*\] (⭐️3170)
+  - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager \[*Modified BSD License*\] (⭐️3172)
 
 ## Janet
 
-  - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context \[*MIT License*\] (⭐️1859)
+  - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context \[*MIT License*\] (⭐️1861)
 
 ## JavaScript
 
-  - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 \[*GNU GPLv3*\] (⭐️7370)
+  - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 \[*GNU GPLv3*\] (⭐️7378)
 
 ## Lua
 
-  - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim \[*GNU GPLv3*\] (⭐️2853)
-  - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows \[*GNU GPLv3*\] (⭐️3247)
-  - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim \[*MIT License*\] (⭐️3831)
-  - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim \[*Apache License 2.0*\] (⭐️8888)
-  - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing. \[*Apache License 2.0*\] (⭐️3901)
-  - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing. \[*Apache License 2.0*\] (⭐️3799)
-  - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. \[*MIT License*\] (⭐️6304)
+  - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim \[*GNU GPLv3*\] (⭐️2854)
+  - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows \[*GNU GPLv3*\] (⭐️3252)
+  - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim \[*MIT License*\] (⭐️3842)
+  - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim \[*Apache License 2.0*\] (⭐️8905)
+  - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing. \[*Apache License 2.0*\] (⭐️3908)
+  - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing. \[*Apache License 2.0*\] (⭐️3804)
+  - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. \[*MIT License*\] (⭐️6312)
   - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim \[*MIT License*\] (⭐️1287) *Archived!*
-  - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API \[*Apache License 2.0*\] (⭐️2947)
-  - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua. (⭐️3618) *Archived!*
-  - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. \[*Apache License 2.0*\] (⭐️2516)
-  - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers \[*MIT License*\] (⭐️3822)
+  - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API \[*Apache License 2.0*\] (⭐️2951)
+  - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua. (⭐️3619) *Archived!*
+  - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. \[*Apache License 2.0*\] (⭐️2521)
+  - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers \[*MIT License*\] (⭐️3826)
   - [lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) - Neovim plugin for lspcontainers. \[*Apache License 2.0*\] (⭐️280)
-  - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua \[*MIT License*\] (⭐️2740)
-  - [Maan2003/lsp_lines.nvim](https://github.com/Maan2003/lsp_lines.nvim) -  \[*ISC License*\] (⭐️229)
-  - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim \[*GNU GPLv3*\] (⭐️4152)
-  - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support. \[*GNU GPLv3*\] (⭐️1245)
-  - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP \[*Apache License 2.0*\] (⭐️8581)
+  - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua \[*MIT License*\] (⭐️2742)
+  - [Maan2003/lsp_lines.nvim](https://github.com/Maan2003/lsp_lines.nvim) -  \[*ISC License*\] (⭐️230)
+  - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim \[*GNU GPLv3*\] (⭐️4156)
+  - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support. \[*GNU GPLv3*\] (⭐️1249)
+  - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP \[*Apache License 2.0*\] (⭐️8593)
   - [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) - Integration for nvim-dap with telescope.nvim \[*MIT License*\] (⭐️266)
-  - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time. \[*MIT License*\] (⭐️12219)
-  - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (⭐️5963)
-  - [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) - improve neovim lsp experience \[*MIT License*\] (⭐️3108)
-  - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience. \[*MIT License*\] (⭐️1452)
+  - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time. \[*MIT License*\] (⭐️12224)
+  - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (⭐️5965)
+  - [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) - improve neovim lsp experience \[*MIT License*\] (⭐️3112)
+  - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience. \[*MIT License*\] (⭐️1454)
   - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type \[*Apache License 2.0*\] (⭐️1746)
-  - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap \[*MIT License*\] (⭐️1872)
-  - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim \[*MIT License*\] (⭐️2473)
-  - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim \[*MIT License*\] (⭐️879)
-  - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching. (⭐️1840)
+  - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap \[*MIT License*\] (⭐️1873)
+  - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim \[*MIT License*\] (⭐️2476)
+  - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim \[*MIT License*\] (⭐️881)
+  - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching. (⭐️1841)
   - [rverst/nvim-config](https://github.com/rverst/nvim-config) - My neovim config \[*The Unlicense*\] (⭐️2)
-  - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages. \[*MIT License*\] (⭐️1808)
-  - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context \[*Apache License 2.0*\] (⭐️1192)
-  - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) -  \[*GNU GPLv3*\] (⭐️651)
-  - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  \[*MIT License*\] (⭐️4258)
-  - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler \[*MIT License*\] (⭐️2135)
-  - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.  (⭐️2148)
-  - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim. \[*MIT License*\] (⭐️3089)
-  - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config \[*MIT License*\] (⭐️7267)
-  - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. \[*Apache License 2.0*\] (⭐️1697)
-  - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. \[*Apache License 2.0*\] (⭐️5842)
+  - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages. \[*MIT License*\] (⭐️1809)
+  - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context \[*Apache License 2.0*\] (⭐️1194)
+  - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) -  \[*GNU GPLv3*\] (⭐️652)
+  - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  \[*MIT License*\] (⭐️4270)
+  - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler \[*MIT License*\] (⭐️2138)
+  - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.  (⭐️2154)
+  - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim. \[*MIT License*\] (⭐️3094)
+  - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config \[*MIT License*\] (⭐️7275)
+  - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. \[*Apache License 2.0*\] (⭐️1704)
+  - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. \[*Apache License 2.0*\] (⭐️5854)
   - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim! \[*Apache License 2.0*\] (⭐️2014) *Archived!*
 
 ## Makefile
 
-  - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. \[*MIT License*\] (⭐️6029)
+  - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. \[*MIT License*\] (⭐️6030)
 
 ## Objective-C
 
-  - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. \[*GNU GPLv2*\] (⭐️14157)
+  - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. \[*GNU GPLv2*\] (⭐️14159)
 
 ## PHP
 
-  - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager \[*GNU AGPLv3*\] (⭐️11929)
-  - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… \[*GNU AGPLv3*\] (⭐️7398)
+  - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager \[*GNU AGPLv3*\] (⭐️11932)
+  - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… \[*GNU AGPLv3*\] (⭐️7403)
 
 ## PowerShell
 
-  - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core \[*MIT License*\] (⭐️19528)
-  - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (⭐️19068)
+  - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core \[*MIT License*\] (⭐️19530)
+  - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (⭐️19073)
 
 ## Python
 
   - [bustedlogic/DWIN_T5UIC1_LCD](https://github.com/bustedlogic/DWIN_T5UIC1_LCD) - Python class for the Ender 3 V2 LCD \[*GNU GPLv3*\] (⭐️118)
-  - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need \[*MIT License*\] (⭐️36601)
-  - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather \[*Apache License 2.0*\] (⭐️22846)
-  - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. \[*Apache License 2.0*\] (⭐️64975)
-  - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal \[*GNU GPLv3*\] (⭐️20673)
+  - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need \[*MIT License*\] (⭐️36603)
+  - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather \[*Apache License 2.0*\] (⭐️22854)
+  - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. \[*Apache License 2.0*\] (⭐️64991)
+  - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal \[*GNU GPLv3*\] (⭐️20686)
   - [MicroSur/DWIN_T5UIC1_LCD](https://github.com/MicroSur/DWIN_T5UIC1_LCD) - Python class for the Ender 3 V2 LCD \[*GNU GPLv3*\] (⭐️15)
-  - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. (⭐️24041)
-  - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! \[*GNU AGPLv3*\] (⭐️7783)
+  - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. (⭐️24049)
+  - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! \[*GNU AGPLv3*\] (⭐️7782)
   - [odwdinc/DWIN_T5UIC1_LCD](https://github.com/odwdinc/DWIN_T5UIC1_LCD) - Python class for the Ender 3 V2 LCD \[*GNU GPLv3*\] (⭐️147)
   - [oscarminus/steinapi](https://github.com/oscarminus/steinapi) - A simple python connector for the THW Stein.APP \[*MIT License*\] (⭐️12)
   - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! \[*GNU GPLv3*\] (⭐️7333)
-  - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system \[*MIT License*\] (⭐️5516)
-  - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently. \[*MIT License*\] (⭐️6819)
-  - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️125643)
+  - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system \[*MIT License*\] (⭐️5518)
+  - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently. \[*MIT License*\] (⭐️6830)
+  - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️125655)
 
 ## Ruby
 
-  - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community \[*GNU AGPLv3*\] (⭐️44899)
+  - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community \[*GNU AGPLv3*\] (⭐️44900)
 
 ## Rust
 
-  - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore \[*The Unlicense*\] (⭐️42092)
-  - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner \[*Creative Commons Zero v1.0 Universal*\] (⭐️15019)
-  - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust \[*MIT License*\] (⭐️4431)
-  - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output \[*MIT License*\] (⭐️19420)
-  - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs \[*GNU AGPLv3*\] (⭐️30025)
-  - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (⭐️23043)
+  - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore \[*The Unlicense*\] (⭐️42114)
+  - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner \[*Creative Commons Zero v1.0 Universal*\] (⭐️15035)
+  - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust \[*MIT License*\] (⭐️4433)
+  - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output \[*MIT License*\] (⭐️19426)
+  - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs \[*GNU AGPLv3*\] (⭐️30045)
+  - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (⭐️23052)
 
 ## Scheme
 
-  - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer \[*Apache License 2.0*\] (⭐️8341)
+  - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer \[*Apache License 2.0*\] (⭐️8350)
 
 ## Shell
 
   - [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity. \[*MIT License*\] (⭐️358)
-  - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. \[*GNU GPLv3*\] (⭐️11508)
-  - [foldmap/fisher](https://github.com/foldmap/fisher) - A plugin manager for Fish \[*MIT License*\] (⭐️7093)
+  - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. \[*GNU GPLv3*\] (⭐️11512)
+  - [joxji/fisher](https://github.com/joxji/fisher) - A plugin manager for Fish \[*MIT License*\] (⭐️7095)
   - [rverst/dotfiles_old](https://github.com/rverst/dotfiles_old) - These are my dotfiles, batteries included. \[*The Unlicense*\] (⭐️2)
 
 ## Starlark
 
-  - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins (⭐️11243)
+  - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins (⭐️11248)
 
 ## Swift
 
@@ -237,12 +237,12 @@ Total starred repositories: `157`
 
 ## TypeScript
 
-  - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash \[*MIT License*\] (⭐️1802)
-  - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  \[*GNU AGPLv3*\] (⭐️58490)
-  - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop \[*Apache License 2.0*\] (⭐️5252)
+  - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash \[*MIT License*\] (⭐️1803)
+  - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  \[*GNU AGPLv3*\] (⭐️58504)
+  - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop \[*Apache License 2.0*\] (⭐️5254)
   - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files \[*MIT License*\] (⭐️904)
-  - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant \[*MIT License*\] (⭐️882)
-  - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (⭐️37983)
+  - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant \[*MIT License*\] (⭐️883)
+  - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (⭐️38015)
 
 ## Unknown
 
@@ -253,10 +253,10 @@ Total starred repositories: `157`
 
 ## Vim Script
 
-  - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (⭐️71972)
+  - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (⭐️72006)
   - [rstacruz/vim-closer](https://github.com/rstacruz/vim-closer) - Closes brackets \[*MIT License*\] (⭐️321)
   - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code. \[*BSD 2-Clause "Simplified" License*\] (⭐️1892)
   - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out (⭐️5529)
   - [tpope/vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: Wisely add  (⭐️1076)
-  - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal (⭐️18541)
+  - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal (⭐️18544)
 
